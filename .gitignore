@@ -8,6 +8,7 @@ package.json
 package-lock.json
 README.md
 webpack.config.js
+.babelrc
 # Editor directories and files
 .idea
 *.suo
